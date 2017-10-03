@@ -32,6 +32,7 @@
     "webpack-dev-server": "^2.8.2"
   },
   "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "react-router": "^4.2.0"
   }
 }
